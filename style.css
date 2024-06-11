@@ -1,0 +1,140 @@
+.box{
+    text-align:left;
+    border: 1px solid lightgray;
+    width: 400px;
+    height: 250px;
+    padding: 60px ;
+    margin: 60px auto;
+    border-radius: 14px;
+    background-color: rgb(143, 240, 208);
+}
+.box-img{
+    background-color: white;
+    border: none;
+    padding: 10px;
+    font-size: 14px;
+    width: 50%;
+    text-align: center;
+    color: black;
+    border-radius: 50px;
+    border:none;
+    font-weight: bold;
+}
+
+.box1{
+    text-align:left;
+    border: 2px solid lightgray;
+    width: 500px;
+    height: 400px;
+    box-sizing: border-box;
+    padding: 40px ;
+    margin: 60px auto;
+    border-radius: 14px;
+    background-color: white;
+    position:relative;
+}
+.edit{ 
+    border-radius:50%;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin:10px 50px; 
+}
+
+.vary{
+    
+    position: absolute;
+    left:0;
+    right:0;
+    bottom: 15%;
+    border-bottom: 2px solid lightgray;
+}
+
+.text{
+    color: rgb(108, 108, 199);
+    border: none;
+    font-size: 20px;
+    padding:0 20px;
+    background-color: white;
+    position:absolute;
+    top:20px;
+    font-weight: bold;
+
+}
+
+.box2{
+    text-align:left;
+    border: 2px solid lightgray;
+    width: 500px;
+    height: 700px;
+    box-sizing: border-box;
+    margin: 60px auto;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.fit{
+    width:100%;
+}
+.dis{
+    color:rgb(102, 98, 98);
+    text-shadow: 5cm;
+}
+.padding{
+    padding: 20px;
+}
+.tst{
+    font-weight: 100;
+}
+.ton {
+    background-color: white;
+    border:2px solid lightgray;
+    padding:10px;
+    border-radius:5px;
+    color:rgb(50, 106, 171);
+    font-weight: bold;
+    margin:30px;
+    
+}
+
+.input{
+    width: 50%;
+    margin-bottom: 12px;
+    padding:14px;
+    box-sizing: border-box;
+    border: 2px solid lightgray;
+    border-radius:10px;
+    font-weight: 500;
+}
+.login-btn{
+    background-color: black;
+    border: none;
+    padding: 14px 24px;
+    font-size: 14px;
+    color: white;
+    border-radius: 50px;
+    margin:20px;
+}
+
+.box3{
+    text-align:center;
+    border: none;
+    width: 380px;
+    height: 700px;
+    margin: 60px auto;
+    border-radius: 15px;
+    padding:auto;
+}
+.font{
+    font-weight: bolder;
+}
+.bold{
+    font-weight: bold;
+    font-size:12px;
+}
+a{
+    color:black;
+}
+.bg{
+    color:grey;
+}
